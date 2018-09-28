@@ -10,8 +10,9 @@
 需要增加新的公司，或是有任何修改請開 Issue
 
 ## 台北
-
-- [Shopline] (https://shopline.tw/) / [職缺列表](https://www.yourator.co/companies/shopline/jobs/477)
+ 
+- [Maicoin](https://www.maicoin.com) / [職缺列表](https://github.com/MaiAmis/Careers/tree/master/MaiCoin)
+- [Shopline](https://shopline.tw/) / [職缺列表](https://www.yourator.co/companies/shopline/jobs/477)
 - [熱鬧點科技 Migo](www.migo.tv) / [職缺列表](https://www.yourator.co/companies/migotv/jobs/5000)
 - [艾拉物聯 Ayla Networks](https://www.aylanetworks.com/) / [職缺列表](https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=513b436c35373f6831333b64393f371a72a2a2a6e425d5d2674j49)
 - [盾心科技 Umbo CV](https://umbocv.ai/) / [職缺列表](https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=493b436c35373f6831333b64393f371a72a2a2a6c42373b2674j57)
