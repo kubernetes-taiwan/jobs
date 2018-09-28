@@ -10,7 +10,8 @@
 需要增加新的公司，或是有任何修改請開 Issue
 
 ## 台北
- 
+
+- [AMIS](https://am.is) / [職缺列表](https://github.com/MaiAmis/Careers/tree/master/AMIS)
 - [Maicoin](https://www.maicoin.com) / [職缺列表](https://github.com/MaiAmis/Careers/tree/master/MaiCoin)
 - [Shopline](https://shopline.tw/) / [職缺列表](https://www.yourator.co/companies/shopline/jobs/477)
 - [熱鬧點科技 Migo](www.migo.tv) / [職缺列表](https://www.yourator.co/companies/migotv/jobs/5000)
