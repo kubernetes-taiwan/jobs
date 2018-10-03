@@ -11,6 +11,7 @@
 
 ## 台北
 
+- [竹間智能](http://www.emotibot.com) / [職缺列表](https://www.104.com.tw/job/?jobno=5ylvy)
 - [AMIS](https://am.is) / [職缺列表](https://github.com/MaiAmis/Careers/tree/master/AMIS)
 - [Maicoin](https://www.maicoin.com) / [職缺列表](https://github.com/MaiAmis/Careers/tree/master/MaiCoin)
 - [Shopline](https://shopline.tw/) / [職缺列表](https://www.yourator.co/companies/shopline/jobs/477)
